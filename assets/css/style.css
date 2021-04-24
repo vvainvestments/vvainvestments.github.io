@@ -538,6 +538,10 @@ section {
   padding: 60px 0;
 }
 
+.parrafo_inicial {
+  font-size: 24px
+}
+
 .section-bg {
   background-color: #f6f9fd;
 }
